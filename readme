@@ -1,0 +1,23 @@
+# Recipes App (CRUD)
+
+This is a simple CRUD application for managing recipes using Node.js, Express.js, and MongoDB with Mongoose.
+
+## Features
+- Create, Read, Update, and Delete recipes.
+- Structured using MVC architecture.
+- API tested and documented using Postman.
+
+## Installation
+```bash
+git clone <repo-url>
+cd recipes-app
+npm install
+npm start
+
+##API Endpoints
+Method	   Endpoint	          Description
+POST	   /api/recipes	      Create a new recipe
+GET	       /api/recipes	      Get all recipes
+GET	       /api/recipes/:id	  Get a recipe by ID
+PUT	       /api/recipes/:id	  Update a recipe by ID
+DELETE	   /api/recipes/:id	  Delete a recipe by ID

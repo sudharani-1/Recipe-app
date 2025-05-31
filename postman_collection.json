@@ -1,0 +1,17 @@
+[
+{
+  "title": "Spaghetti",
+  "ingredients": ["Pasta", "Tomato Sauce", "Garlic"],
+  "instructions": "Boil pasta. Add sauce. Serve hot.",
+  "cookingTime": 30,
+  "servings": 4
+},
+
+{
+  "title": "Sushi",
+  "ingredients": ["Sushi Rice", "Rice wine", "Caster Sugar","Soy Sauce"],
+  "instructions": "Pat out some rice.  Spread over some Japanese mayonnaise.  Add the filling.  Roll it up",
+  "cookingTime": 60,
+  "servings": 6
+}
+]
