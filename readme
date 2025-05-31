@@ -18,6 +18,6 @@ npm start
 Method	       Endpoint	              Description
 POST	        /api/recipes	      Create a new recipe
 GET	       /api/recipes	      Get all recipes
-GET	       /api/recipes/:id	        Get a recipe by ID
-PUT	       /api/recipes/:id	        Update a recipe by ID
-DELETE	       /api/recipes/:id	        Delete a recipe by ID
+GET	       /api/recipes/:id	      Get a recipe by ID
+PUT	       /api/recipes/:id	      Update a recipe by ID
+DELETE	       /api/recipes/:id	      Delete a recipe by ID
